@@ -1,3 +1,5 @@
+Notice: exe went missing somewhere ill fix it soon
+
 # roblox-asset-rip
 An open source asset ripper for ROBLOX. Thanks to [this repository](https://github.com/zyme-xd/rblx-rip), made by [zyme-xd](https://github.com/zyme-xd). I made it simpler.
 
