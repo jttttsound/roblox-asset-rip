@@ -10,7 +10,7 @@ BUNDLE ID's ARE NOT SUPPORTED! If you are downloading a bundle, find the normal 
 # how to use
 1: Download the ZIP file
 
-2: Extract it
+2: Extract "RBLX-RIP.zip"
 
 3: Read the readme.txt if you want and run the program
 
