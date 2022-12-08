@@ -1,5 +1,3 @@
-Notice: exe went missing somewhere ill fix it soon
-
 # roblox-asset-rip
 An open source asset ripper for ROBLOX. Thanks to [this repository](https://github.com/zyme-xd/rblx-rip), made by [zyme-xd](https://github.com/zyme-xd). I made it simpler.
 
@@ -10,17 +8,13 @@ Some assets will not work if they're private! Be sure to double check if they're
 BUNDLE ID's ARE NOT SUPPORTED! If you are downloading a bundle, find the normal ID for the bundle.
 
 # how to use
-1: Download the exe
+1: Download the ZIP file
 
-2: If the exe is renamed to something else be sure to name it "rblx-rip.exe"
+2: Extract it
 
-3: Create a folder called "RBLX-RIP"
+3: Read the readme.txt if you want and run the program
 
-4: Put the exe inside of the folder
-
-5: In the folder create another folder called "assets"
-
-6: You should be able to run the program now. Happy ripping.
+4: You're practically done now lol, happy ripping
 
 # supported assets
 | Asset Name  | Description of asset |
@@ -43,3 +37,5 @@ BUNDLE ID's ARE NOT SUPPORTED! If you are downloading a bundle, find the normal 
 |  'video' | Videos in .webm format  |
 | 'hat-resources'| Hat Textures/Meshes in .obj/.png format|
 | 'gear-resources' | Gear Textures/Meshes in .obj/.png format|
+
+## thanks zyme-xd for making the original :D
